@@ -47,9 +47,6 @@ if (!isset($nombre)) {
 
 <!-- Parte de HTML -->
 <body>
-    <pre>
-        <?=  print_r($_FILES) ?>
-    </pre>
     <?= $mensaje ?>
 </body>
 <!-- Parte de HTML -->
